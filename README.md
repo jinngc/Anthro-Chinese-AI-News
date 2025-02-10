@@ -7,11 +7,12 @@ This code is introduced in the following thesis:
 **Anthropomorphic Analysis of Chinese News: A Case Study on Artificial Intelligence Discourse**
 ---
 Author:       Chong Jing
-Affiliation:  Graduate Institute of Journalism,
-              College of Social Sciences,
+Affiliation:  Graduate Institute of Journalism,  
+              College of Social Sciences,  
               National Taiwan University
 
 Advisor:      Ji-Lung Hsieh, Ph.D.
+
 
 ## Abstract
 (to be added)

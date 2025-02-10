@@ -10,7 +10,6 @@ Author:       Chong Jing
 Affiliation:  Graduate Institute of Journalism,
               College of Social Sciences,
               National Taiwan University
-
 Advisor:      Ji-Lung Hsieh, Ph.D.
 
 

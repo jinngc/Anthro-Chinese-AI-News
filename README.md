@@ -1,5 +1,4 @@
 # Anthro-Chinese-AI-News
-## Overview 
 
 This repository contains code to compute anthropomorphic scores for Chinese news articles, focusing on AI discourse. This work is part of a Master's Thesis at National Taiwan University's Graduate Institute of Journalism, College of Social Sciences.
 

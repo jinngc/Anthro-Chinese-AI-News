@@ -9,7 +9,7 @@ This code is introduced in the following thesis:
 Author:       Chong Jing  
 Affiliation:  Graduate Institute of Journalism,  
               College of Social Sciences,  
-              National Taiwan University  
+              National Taiwan University
 
 Advisor:      Ji-Lung Hsieh, Ph.D.
 

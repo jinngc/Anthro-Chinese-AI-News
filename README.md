@@ -15,8 +15,11 @@ Advisor:      Ji-Lung Hsieh, Ph.D.
 
 ## Abstract
 With the rapid advancement of artificial intelligence (AI), news media often employ anthropomorphic representations to help the public better understand this emerging technology. However, excessive attribution of human characteristics to AI can lead to misconceptions about its actual capabilities and affect public perception of technological risks and ethical issues. This study examines AI-related news from ETtoday, a major Taiwanese digital news platform, to explore anthropomorphism in AI reporting.  
+
 Applying the AnthroScore framework, developed by Stanford’s NLP Group, this study introduces three key modifications for Chinese-language analysis: (1) a two-step prediction method to enhance contextual understanding, (2) an adapted pronoun list including "他" (he), "她" (she), and "它" (it), and (3) a threshold-based filtering mechanism for improved reliability.  
+
 Analyzing AI-related news articles published between 2016 and 2024, this study finds: (1) a significant increase in AI anthropomorphism over time, (2) higher anthropomorphism in entertainment, society, and sports news, and (3) ChatGPT-related articles showing greater anthropomorphism than general AI reports, indicating conversational AI elicits stronger human-like descriptions.  
+
 This study contributes by adapting AnthroScore for Chinese, offering insights for cross-linguistic research. It also highlights Taiwan’s media tendency to anthropomorphize AI, underscoring the need for responsible journalism to prevent public misinterpretation.
 
 ## Key Adaptations
